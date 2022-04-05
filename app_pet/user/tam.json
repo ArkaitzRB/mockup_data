@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "username": "tam",
+  "firstName": "Tamara",
+  "lastName": "Álvarez Castañeda",
+  "email": "tamara.alvarez.c@gmail.com",
+  "phone": "611 48 09 26",
+  "password": "tam",
+  "imageUrl": "avatarTamara300.png",
+  "role": "User"
+}
