@@ -1,0 +1,31 @@
+{
+  "Name": "Arkaitz",
+  "Children": [
+    {
+		"Name": "Jose Mª",
+		"Children": [
+			{
+				"Name": "Luis",
+				"Children": []
+			},
+			{
+				"Name": "Pilar",
+				"Children": []
+			}
+		]
+    },
+    {
+		"Name": "Isabel",
+		"Children": [
+			{
+				"Name": "Gonzalo",
+				"Children": []
+			},
+			{
+				"Name": "Juli",
+				"Children": []
+			}
+      ]
+    }
+  ]
+}
