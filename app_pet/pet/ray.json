@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "nickName": "Txipirona",
+  "name": "Ray",
+  "description": "La cocodrila que te roba el corazón.",
+  "breed": "Mestizo",
+  "gender": "F",
+  "birthday": "2019/07/01",
+  "chip": "",
+  "color": "#00FF00",
+  "numOrder": 1,
+  "isAlterable": true,
+  "isShareable": true,
+  "isDeletable": true,
+  "imageUrl": "avatarRay.png"
+}
