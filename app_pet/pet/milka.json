@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "nickName": "Pinky",
+  "name": "Milka",
+  "description": "La princesa de la casa.",
+  "breed": "Mestizo",
+  "gender": "F",
+  "birthday": "2016/09/09",
+  "chip": "",
+  "color": "#FF0000",
+  "numOrder": 1,
+  "isAlterable": true,
+  "isShareable": true,
+  "isDeletable": true,
+  "imageUrl": "avatarMilka.png"
+}
