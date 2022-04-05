@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "username": "ark",
+  "firstName": "Arkaitz",
+  "lastName": "Ruiz Barbero",
+  "email": "arkaitzrb@gmail.com",
+  "phone": "645 724 500",
+  "password": "ark",
+  "imageUrl": "avatarArkaitz300.png",
+  "role": "Role.admin"
+}
